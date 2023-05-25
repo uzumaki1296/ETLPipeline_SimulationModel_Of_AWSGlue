@@ -31,7 +31,7 @@ deeper while implementing it on our own.
 
 ### PROJECT DESCRIPTION:
     Written in Python using Pandas Library, our ETL pipeline
-will extract Deutsche Bank data and put it in AWS S3 bucket.
+Will extract Deutsche Bank data and put it in AWS S3 bucket.
 From Amazon S3 pipeline, we transform the data to remove
 unnecessary columns. Transform operation will also add
 needed columns into it like ‘Min- Price’, ‘Max-Price’, ‘Trading
